@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Added some code here
+
 int main()
 {
     int sum,n,i;
